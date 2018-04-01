@@ -127,5 +127,5 @@ bot.on("message", async message => {
 
 })
 
-bot.login(process.env.TOKEN);
+bot.login("NDI4MjMxOTU4ODI1MjcxMjk2.DaK_Cw.d8X4k3S-cVdiXD-eBLRNlQY2-Fs");
 
