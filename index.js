@@ -11,7 +11,7 @@ bot.on("ready", function(){
     console.log("Le bot a bien été connecté");
 })
 
-bot.login(botconfig.token);
+bot.login(process.env.TOKEN);
 
 // Commandes
 
